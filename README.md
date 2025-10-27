@@ -55,9 +55,9 @@ Big data technologies and cloud platforms
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 👤 Author
+**Mk Singh**  
+💼 [LinkedIn](https://www.linkedin.com/in/mk-singh/)  
+💻 [GitHub](https://github.com/mksingh)
 
----
-[![](https://visitcount.itsvg.in/api?id=MkSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
