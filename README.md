@@ -52,11 +52,11 @@ Big data technologies and cloud platforms
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=MkSingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️Random Quote
+#### “Nothing is impossible, the word itself says ‘I’m possible.’”
 
 ### 👤 Author
-**Mk Singh**  
+**Motilal Das**  
 💼 [LinkedIn](https://www.linkedin.com/in/mk-singh/)  
 💻 [GitHub](https://github.com/mksingh)
 
