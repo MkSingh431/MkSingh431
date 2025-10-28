@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🔭 I’m currently working on [E-Commerce-Sale-Analysis](https://github.com/MkSingh431/E-Commerce-Sale-Analysis-)
+- 🔭 I’m currently working on [Ipl-Data-Analysis-2008-2024](https://github.com/MkSingh431/ipl_analytics_2008-2024)
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
