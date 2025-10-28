@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [Python Project for data analytics](https://github.com/MkSingh431/python-project)
 
-- 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/motilal-das-42b4a9254](http://www.linkedin.com/in/motilal-das-42b4a9254)
+- 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/motilal-das-42b4a9254](https://github.com/MkSingh431)
 
 - ⚡ Fun fact **I think I am Funny 😁😒**
 
